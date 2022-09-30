@@ -73,8 +73,13 @@ There are three mutually exclusive ways to provide power to the board:
 
 * Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
 
-* Or you can install using Tonny software
+* Or you can install using Tonny software, as follows:
+
+Open the Thonny software, then go to the menu bar and click on Select interpreter
+
 ![select-intrepreter](https://user-images.githubusercontent.com/16738424/193147622-7f1f7d77-59d3-4351-9ef7-805f6ab730ab.png)
+
+
 
 ![install-firmware](https://user-images.githubusercontent.com/16738424/193148201-ee50173c-479a-455f-a8ab-ceb2e3cff5d8.png)
 
