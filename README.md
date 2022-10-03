@@ -1,4 +1,4 @@
-# <p align="center">ESP32 Networking sinde Develop since Test
+# <p align="center">ESP32 Networking
 
 <p align="center">This project is based on an ESP32-S2 general-purpose development board with micropython to connect to the local network.</p>
 
