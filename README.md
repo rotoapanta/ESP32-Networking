@@ -83,7 +83,7 @@ In the Thonny options window select the interpreter menu and click on the link i
 
 ![install-firmware](https://user-images.githubusercontent.com/16738424/193148201-ee50173c-479a-455f-a8ab-ceb2e3cff5d8.png)
 
-In the ESP32 firmware install window, select the port to which the ESP32 board is connected and select the firmware downloaded from the HiRR website, according to the model used.
+In the ESP32 firmware install window, select the port to which the ESP32 board is connected and select the firmware downloaded from the [website](https://micropython.org/download/GENERIC_S2/), according to the model used.
 
 ![port-firmware](https://user-images.githubusercontent.com/16738424/193148206-54155bb0-6f5b-4f80-9bfd-85d114643630.png)
 
