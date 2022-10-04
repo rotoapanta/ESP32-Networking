@@ -75,7 +75,7 @@ There are three mutually exclusive ways to provide power to the board:
 
 * Or you can install using Tonny software, as follows:
 
-1. Open the Thonny software, then go to the menu bar and click on **Tools**.
+1. Open the Thonny software, then go to the menu bar and click on **Tools**, then click **Manager plug-ins**.
 
 ![tonny-plug-ins-1](https://user-images.githubusercontent.com/16738424/193680097-2df312a8-6a18-45f4-b775-6c25d1d514ab.png)
 
