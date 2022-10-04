@@ -115,9 +115,9 @@ There are three mutually exclusive ways to provide power to the board:
 
 To run this project, you will need to add the following environment variables to your `wifi_credentials.py` file
 
-`ssid = 'LGRC'  #Nombre de la Red`
+`ssid = 'YOUR_SSID'  # Your network SSID (name)`
 
-`password = '2706@09rg' #Contraseña de la red`
+`password = 'YOUR_SSID_PASSWORD' # your network password (use for WPA, or use as key for WEP)`
 
 ## Running Tests
 
