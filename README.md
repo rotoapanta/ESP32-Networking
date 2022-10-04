@@ -115,7 +115,7 @@ There are three mutually exclusive ways to provide power to the board:
 
 To run this project, you will need to add the following environment variables to your `wifi_credentials.py` file
 
-`ssid = 'YOUR_SSID'  # Your network SSID (name)`
+`ssid = 'YOUR_SSID'  # your network SSID (name)`
 
 `password = 'YOUR_SSID_PASSWORD' # your network password (use for WPA, or use as key for WEP)`
 
