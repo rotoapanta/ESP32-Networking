@@ -97,6 +97,9 @@ There are three mutually exclusive ways to provide power to the board:
 
 ![port-firmware](https://user-images.githubusercontent.com/16738424/194114813-780e2d14-9077-4158-8d51-9d53ddd7e30e.png)
 
+6. Finished uploading the firmware is ready to go!
+![port-firmware-done](https://user-images.githubusercontent.com/16738424/194117896-ecffe4a5-b5f3-44dd-9f22-7ba7b48ac3dd.png)
+
 * Identificar el GPIO del LED RGB
 
 * Create the main.py
