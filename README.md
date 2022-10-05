@@ -100,7 +100,7 @@ There are three mutually exclusive ways to provide power to the board:
 6. Finished uploading the firmware is ready to go!
 ![port-firmware-done](https://user-images.githubusercontent.com/16738424/194117896-ecffe4a5-b5f3-44dd-9f22-7ba7b48ac3dd.png)
 
-* Create the `network.py` and `wifi_credentials.py`
+* Create the files `network.py` and `wifi_credentials.py`
 
 * Modify the `wifi_credentials.py` file if you want to:
   * The code line
@@ -112,7 +112,7 @@ There are three mutually exclusive ways to provide power to the board:
 
 ## Changelog
 
-* Revision: 1.1 - Code cleaned and added support for Amazon Echo (2nd Generation) using [this info](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch/issues/22).
+* Revision: 1.1 - Code cleaned.
 * Revision: 1.0 - Initial commit
 
 ## Environment Variables
