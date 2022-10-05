@@ -100,13 +100,14 @@ There are three mutually exclusive ways to provide power to the board:
 6. Finished uploading the firmware is ready to go!
 ![port-firmware-done](https://user-images.githubusercontent.com/16738424/194117896-ecffe4a5-b5f3-44dd-9f22-7ba7b48ac3dd.png)
 
-* Identificar el GPIO del LED RGB
+* Create the `network.py` and `wifi_credentials.py`
 
-* Create the main.py
-* Modify the `main.py` file if you want to:
+* Modify the `wifi_credentials.py` file if you want to:
   * The code line
   ```python
-  ws2812_chain =  WS2812(ledNumber=ledNumber, brightness=100)
+  ssid = 'YOUR_SSID'  # your network SSID (name)`
+
+  password = 'YOUR_SSID_PASSWORD' # your network password (use for WPA, or use as key for WEP)
   ```
 
 ## Changelog
