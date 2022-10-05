@@ -85,17 +85,17 @@ There are three mutually exclusive ways to provide power to the board:
 
 ![tonny-plug-ins-3](https://user-images.githubusercontent.com/16738424/193679194-e8c67aca-759b-40c7-ab71-3dfb24780163.png)
 
-4. In the Thonny software, go to the menu **Run** and click on **Select Interpreter**.
+3. In the Thonny software, go to the menu **Run** and click on **Select Interpreter**.
 
-![select-intrepreter](https://user-images.githubusercontent.com/16738424/193147622-7f1f7d77-59d3-4351-9ef7-805f6ab730ab.png)
+![select-intrepreter](https://user-images.githubusercontent.com/16738424/194108740-7b38804f-d192-42b2-84a6-60f98d3c3b5d.png)
 
-5. In the **Thonny options** window select the **Interpreter** menu and click on the link **Install or update firmware**.
+4. In the **Thonny options** window select the **Interpreter** menu and click on the link **Install or update firmware**.
 
-![install-firmware](https://user-images.githubusercontent.com/16738424/193148201-ee50173c-479a-455f-a8ab-ceb2e3cff5d8.png)
+![install-firmware](https://user-images.githubusercontent.com/16738424/194110292-9ec545bf-ec1e-4ef1-a90a-c91ad9c50220.png)
 
-3. In the **ESP32 firmware install** window, select the port to which the ESP32 board is connected and select the firmware downloaded from the [website](https://micropython.org/download/GENERIC_S2/), according to the model used.
+5. In the **ESP32 firmware install** window, select the port to which the ESP32 board is connected and select the firmware downloaded from the [website](https://micropython.org/download/GENERIC_S2/), according to the model used.
 
-![port-firmware](https://user-images.githubusercontent.com/16738424/193148206-54155bb0-6f5b-4f80-9bfd-85d114643630.png)
+![port-firmware](https://user-images.githubusercontent.com/16738424/194114813-780e2d14-9077-4158-8d51-9d53ddd7e30e.png)
 
 * Identificar el GPIO del LED RGB
 
